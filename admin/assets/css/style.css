@@ -1,0 +1,9 @@
+#logoId img {
+  height: 6rem;
+  margin-left: 4rem;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+}
